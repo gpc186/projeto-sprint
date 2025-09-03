@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"nome_prod": "Coxinha",
+		"preco": 4.50,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 2,
+		"nome_prod": "Pão de queijo",
+		"preco": 5.50,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 3,
+		"nome_prod": "Bauru",
+		"preco": 7.00,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 4,
+		"nome_prod": "Enroladinho de salsicha",
+		"preco": 4.00,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 5,
+		"nome_prod": "Pastel",
+		"preco": 12.00,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 6,
+		"nome_prod": "Risoles",
+		"preco": 4.50,
+		"descricao": "lorem ipsum"
+	},
+	{
+		"id": 7,
+		"nome_prod": "Hamburguer",
+		"preco": 20.00,
+		"descricao": "lorem ipsum"
+	}
+]
